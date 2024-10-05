@@ -8,6 +8,7 @@
 2. 变量名没有意义
 3. 项目结构混乱
 4. 形如屎山的代码
+5. [![yaoying2012's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoying2012)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 语言
 目前我掌握的语言有（按熟练程度排序）：
